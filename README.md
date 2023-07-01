@@ -3,7 +3,7 @@
 
 This is a web based application developed by Abhishek M Kulkarni for covid-19 health related issues India
 
-# This web based Covid-19 health application has been developed for the completion of Future Ready Talent Internship offered by Microsoft,Future Skills Prime,Github,Quess and EY
+#This web based Covid-19 health application has been developed for the completion of Future Ready Talent Internship offered by Microsoft,Future Skills Prime,Github,Quess and EY
 
 ## Azure technologies used for project
 - Static wep apps
