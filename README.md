@@ -1,5 +1,5 @@
 
-## **CoroVid**
+# **CoroVid**
 
 This is a web based application developed by Abhishek M Kulkarni for covid-19 health related issues in India
 
