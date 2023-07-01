@@ -1,4 +1,5 @@
-![Contact info](https://github.com/Abhishek-AMK/frt-internship/assets/113782190/1bca8caa-7a73-4c8c-b780-948a94e89c80)# **CoroVid**
+
+**CoroVid**
 
 This is a web based application developed by Abhishek M Kulkarni for covid-19 health related issues India
 
