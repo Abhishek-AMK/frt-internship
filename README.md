@@ -35,6 +35,13 @@ This web based Covid-19 health application has been developed for the completion
 ![Contact info](https://github.com/Abhishek-AMK/frt-internship/assets/113782190/a8dadbb2-eea9-4e00-8aae-a37e51e02045)
 
 
+## Special thanks to:
+- Microsoft
+- Future Skills Prime
+- Github
+- Quess
+- EY
+
 
                                                                            
 
