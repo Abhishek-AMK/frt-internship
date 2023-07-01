@@ -15,9 +15,9 @@ This web based Covid-19 health application has been developed for the completion
 * Ask any health related questions to our bot
 
 
-**Project Link** - https://ambitious-river-089a5a100.3.azurestaticapps.net
+**Project Link - https://ambitious-river-089a5a100.3.azurestaticapps.net**
 
-**Project Demo Link** - https://www.linkedin.com/posts/abhishek-kulkarni-0891a4248_microsoftazure-ey-github-activity-7080970243820453888-jAZ2?utm_source=share&utm_medium=member_desktop
+**Project Demo Link - https://www.linkedin.com/posts/abhishek-kulkarni-0891a4248_microsoftazure-ey-github-activity-7080970243820453888-jAZ2?utm_source=share&utm_medium=member_desktop**
 
 
 ### Screenshots
